@@ -58,10 +58,3 @@ if __name__ == "__main__":
         for c in row:
             print(c, end='')
         print()
-
-
-
-
-
-
-
